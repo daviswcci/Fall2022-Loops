@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fall2022 Loops", "Fall2022 Loops\Fall2022 Loops.csproj", "{59304BF8-7A7B-4088-96B1-7553D93EC299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59304BF8-7A7B-4088-96B1-7553D93EC299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59304BF8-7A7B-4088-96B1-7553D93EC299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59304BF8-7A7B-4088-96B1-7553D93EC299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59304BF8-7A7B-4088-96B1-7553D93EC299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DC5752-ABFE-4668-B538-DB3D7D319755}
+	EndGlobalSection
+EndGlobal
